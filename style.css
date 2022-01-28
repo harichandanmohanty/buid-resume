@@ -14,7 +14,7 @@ h1 {
 
 h2 {
     font-size: 1.5em;
-    padding-bottom: 0.5em;
+    padding: 0.5em 0em 0.5em 0em;
 }
 
 main { 
@@ -40,10 +40,9 @@ p {
     margin: .2em auto
 }
 
-hr {
-    border: none;
-    background-color: lightgray;
-    height: 1px;
+#jobrole {
+    border-bottom: 1px solid lightgray;
+    border-top: 1px solid lightgray;
 }
 
 h1, h2 {
