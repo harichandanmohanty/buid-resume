@@ -30,6 +30,7 @@ header {
 
 section {
     margin: auto 1em 4em 2em;
+    text-align: justify;
 }
 
 i {
